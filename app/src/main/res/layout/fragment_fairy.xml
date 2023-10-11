@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#186F65"
+    android:background="#ff9be3"
     tools:context=".FairyFragment">
 
     <!-- TODO: Update blank fragment layout -->
@@ -15,6 +15,6 @@
         android:text="Fragment Fairy Tale"
         android:textSize="16dp"
         android:textStyle="bold"
-        android:textColor="#FFFFFF" />
+        android:textColor="#333" />
 
 </FrameLayout>

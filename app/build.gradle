@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.project2664'
+    namespace 'com.example.ProjectBP_2664'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.project2664"
+        applicationId "com.example.ProjectBP_2664"
         minSdk 27
         targetSdk 33
         versionCode 1
@@ -33,6 +33,10 @@ android {
 }
 
 dependencies {
+
+    //libary recycler view dan card view
+    implementation 'androidx.recyclerview:recyclerview:1.3.1'
+    implementation 'androidx.cardview:cardview:1.0.0'
 
     implementation 'androidx.core:core-ktx:1.8.0'
     implementation 'androidx.appcompat:appcompat:1.4.1'

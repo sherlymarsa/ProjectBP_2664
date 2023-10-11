@@ -3,17 +3,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#68fff6"
-    tools:context=".FableFragment">
+    android:background="#FF9494"
+    tools:context=".PictureFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Fragment Fable"
+        android:text="Fragment Picture"
         android:textSize="16dp"
         android:textStyle="bold"
         android:layout_margin="16dp"
-        android:textColor="#333" />
+        android:textColor="#333"/>
 
 </FrameLayout>
